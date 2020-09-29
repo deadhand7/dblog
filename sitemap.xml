@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://deadhand7.github.io/dblog/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://deadhand7.github.io/dblog/post/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/09/test1/</loc>
+    <loc>https://deadhand7.github.io/dblog/2020/09/test1/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/archives/</loc>
+    <loc>https://deadhand7.github.io/dblog/archives/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://deadhand7.github.io/dblog/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://deadhand7.github.io/dblog/tags/</loc>
   </url>
   
 </urlset>

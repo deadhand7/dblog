@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Data Blog</title>
-    <link>/post/</link>
+    <link>https://deadhand7.github.io/dblog/post/</link>
     <description>Recent content in Posts on Data Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://deadhand7.github.io/dblog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test1</title>
-      <link>/2020/09/test1/</link>
+      <link>https://deadhand7.github.io/dblog/2020/09/test1/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/test1/</guid>
+      <guid>https://deadhand7.github.io/dblog/2020/09/test1/</guid>
       <description>this is a test</description>
     </item>
     
